@@ -1,0 +1,15 @@
+.Pokemon {
+    display: flex;
+    flex-direction: column;
+  }
+  .pokemon-img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 5%;
+  }
+  
+  button,
+  .hp {
+    align-self: center;
+  }
+  
